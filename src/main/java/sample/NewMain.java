@@ -1,4 +1,4 @@
-package kasif;
+package sample;
 
 public class NewMain {
 
